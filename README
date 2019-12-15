@@ -1,0 +1,8 @@
+# 3-SAT-Generator
+
+This project implements Formula, the ADT mentioned in MIT 6.031 Lecture Notes.
+And then extended the library to support 3-SAT problem generator and satisfiable method.
+
+Key things to learn:
+1/ unit and integrated tests through Junit5
+2/ Modularity through interface
